@@ -8,6 +8,11 @@ The Sales Forecasting Dashboard is a Power BI project designed to assist busines
 
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to deliver valuable insights and accurate sales forecasting for better decision-making and strategy formulation.
 
+## Tools & Technologies Used
+* Power BI – Dashboard creation and visualization
+* Time Series Analysis – For forecasting future sales trends
+* Data Cleaning & Transformation – Conducted within Power BI
+
 ## Dashboard Insights
 
 * Total Orders: 22K
